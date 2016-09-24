@@ -126,4 +126,6 @@
     <string name="iv" translatable="false">IV</string>
     <string name="percent" translatable="false">%d%%</string>
     <string name="unknown_percent" translatable="false">"?%"</string>
+    <string name="token_pokemonname">Pokémon name</string>
+    <string name="clipboard_modifier_preview">Preview</string>
 </resources>
